@@ -1,4 +1,4 @@
-#Movies App - React Vite
+# Movies App
 
 This is a simple movies app built with React and Vite. It uses the [TMDB API](https://www.themoviedb.org/documentation/api) to fetch movies data.
 
@@ -13,6 +13,8 @@ This is a simple movies app built with React and Vite. It uses the [TMDB API](ht
 - Vite
 - Tailwind CSS
 - Axios
+- Zustand
+- Redux Toolkit
 
 ## Installation
 
