@@ -27,4 +27,3 @@ Run `npm run dev` to start the development server
 
 ## License
 This project is open-sourced software licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
-```
